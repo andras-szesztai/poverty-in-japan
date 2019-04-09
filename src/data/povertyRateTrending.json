@@ -1,0 +1,848 @@
+[
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.062,
+    "Prefecture": "Aichi",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.097,
+    "Prefecture": "Akita",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.134,
+    "Prefecture": "Aomori",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.059,
+    "Prefecture": "Chiba",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.144,
+    "Prefecture": "Ehime",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.078,
+    "Prefecture": "Fukui",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.129,
+    "Prefecture": "Fukuoka",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.08,
+    "Prefecture": "Fukushima",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.063,
+    "Prefecture": "Gifu",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.079,
+    "Prefecture": "Gunma",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.085,
+    "Prefecture": "Hiroshima",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.108,
+    "Prefecture": "Hokkaido",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.084,
+    "Prefecture": "Hyogo",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.058,
+    "Prefecture": "Ibaraki",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.081,
+    "Prefecture": "Ishikawa",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.102,
+    "Prefecture": "Iwate",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.093,
+    "Prefecture": "Kagawa",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.208,
+    "Prefecture": "Kagoshima",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.051,
+    "Prefecture": "Kanagawa",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.159,
+    "Prefecture": "Kochi",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.158,
+    "Prefecture": "Kumamoto",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.127,
+    "Prefecture": "Kyoto",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.076,
+    "Prefecture": "Mie",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.086,
+    "Prefecture": "Miyagi",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.16,
+    "Prefecture": "Miyazaki",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.066,
+    "Prefecture": "Nagano",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.15,
+    "Prefecture": "Nagasaki",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.095,
+    "Prefecture": "Nara",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.076,
+    "Prefecture": "Niigata",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.166,
+    "Prefecture": "Oita",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.108,
+    "Prefecture": "Okayama",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.284,
+    "Prefecture": "Okinawa",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.104,
+    "Prefecture": "Osaka",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.098,
+    "Prefecture": "Saga",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.06,
+    "Prefecture": "Saitama",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.061,
+    "Prefecture": "Shiga",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.127,
+    "Prefecture": "Shimane",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.059,
+    "Prefecture": "Shizuoka",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.076,
+    "Prefecture": "Tochigi",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.144,
+    "Prefecture": "Tokushima",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.076,
+    "Prefecture": "Tokyo",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.1,
+    "Prefecture": "Tottori",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.049,
+    "Prefecture": "Toyama",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.118,
+    "Prefecture": "Wakayama",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.067,
+    "Prefecture": "Yamagata",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.108,
+    "Prefecture": "Yamaguchi",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.074,
+    "Prefecture": "Yamanashi",
+    "Year": 1992
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.117,
+    "Prefecture": "Aichi",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.153,
+    "Prefecture": "Akita",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.177,
+    "Prefecture": "Aomori",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.098,
+    "Prefecture": "Chiba",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.178,
+    "Prefecture": "Ehime",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.119,
+    "Prefecture": "Fukui",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.168,
+    "Prefecture": "Fukuoka",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.13,
+    "Prefecture": "Fukushima",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.117,
+    "Prefecture": "Gifu",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.123,
+    "Prefecture": "Gunma",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.142,
+    "Prefecture": "Hiroshima",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.151,
+    "Prefecture": "Hokkaido",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.178,
+    "Prefecture": "Hyogo",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.105,
+    "Prefecture": "Ibaraki",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.118,
+    "Prefecture": "Ishikawa",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.151,
+    "Prefecture": "Iwate",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.155,
+    "Prefecture": "Kagawa",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.23,
+    "Prefecture": "Kagoshima",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.111,
+    "Prefecture": "Kanagawa",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.198,
+    "Prefecture": "Kochi",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.203,
+    "Prefecture": "Kumamoto",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.213,
+    "Prefecture": "Kyoto",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.108,
+    "Prefecture": "Mie",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.143,
+    "Prefecture": "Miyagi",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.192,
+    "Prefecture": "Miyazaki",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.112,
+    "Prefecture": "Nagano",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.163,
+    "Prefecture": "Nagasaki",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.131,
+    "Prefecture": "Nara",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.13,
+    "Prefecture": "Niigata",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.181,
+    "Prefecture": "Oita",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.148,
+    "Prefecture": "Okayama",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.302,
+    "Prefecture": "Okinawa",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.214,
+    "Prefecture": "Osaka",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.142,
+    "Prefecture": "Saga",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.113,
+    "Prefecture": "Saitama",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.104,
+    "Prefecture": "Shiga",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.148,
+    "Prefecture": "Shimane",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.104,
+    "Prefecture": "Shizuoka",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.106,
+    "Prefecture": "Tochigi",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.185,
+    "Prefecture": "Tokushima",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.138,
+    "Prefecture": "Tokyo",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.131,
+    "Prefecture": "Tottori",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.108,
+    "Prefecture": "Toyama",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.178,
+    "Prefecture": "Wakayama",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.113,
+    "Prefecture": "Yamagata",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.134,
+    "Prefecture": "Yamaguchi",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.143,
+    "Prefecture": "Yamanashi",
+    "Year": 2002
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.147,
+    "Prefecture": "Aichi",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.183,
+    "Prefecture": "Akita",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.241,
+    "Prefecture": "Aomori",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.148,
+    "Prefecture": "Chiba",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.202,
+    "Prefecture": "Ehime",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.113,
+    "Prefecture": "Fukui",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.206,
+    "Prefecture": "Fukuoka",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.169,
+    "Prefecture": "Fukushima",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.148,
+    "Prefecture": "Gifu",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.154,
+    "Prefecture": "Gunma",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.169,
+    "Prefecture": "Hiroshima",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.214,
+    "Prefecture": "Hokkaido",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.203,
+    "Prefecture": "Hyogo",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.143,
+    "Prefecture": "Ibaraki",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.154,
+    "Prefecture": "Ishikawa",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.197,
+    "Prefecture": "Iwate",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.172,
+    "Prefecture": "Kagawa",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.243,
+    "Prefecture": "Kagoshima",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.167,
+    "Prefecture": "Kanagawa",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.237,
+    "Prefecture": "Kochi",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.215,
+    "Prefecture": "Kumamoto",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.225,
+    "Prefecture": "Kyoto",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.154,
+    "Prefecture": "Mie",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.202,
+    "Prefecture": "Miyagi",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.23,
+    "Prefecture": "Miyazaki",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.155,
+    "Prefecture": "Nagano",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.222,
+    "Prefecture": "Nagasaki",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.178,
+    "Prefecture": "Nara",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.16,
+    "Prefecture": "Niigata",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.213,
+    "Prefecture": "Oita",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.206,
+    "Prefecture": "Okayama",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.348,
+    "Prefecture": "Okinawa",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.232,
+    "Prefecture": "Osaka",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.156,
+    "Prefecture": "Saga",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.163,
+    "Prefecture": "Saitama",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.135,
+    "Prefecture": "Shiga",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.167,
+    "Prefecture": "Shimane",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.151,
+    "Prefecture": "Shizuoka",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.157,
+    "Prefecture": "Tochigi",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.218,
+    "Prefecture": "Tokushima",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.168,
+    "Prefecture": "Tokyo",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.189,
+    "Prefecture": "Tottori",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.112,
+    "Prefecture": "Toyama",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.215,
+    "Prefecture": "Wakayama",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.166,
+    "Prefecture": "Yamagata",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.169,
+    "Prefecture": "Yamaguchi",
+    "Year": 2012
+  },
+  {
+    "Number of Records": 1,
+    "Poverty rate": 0.191,
+    "Prefecture": "Yamanashi",
+    "Year": 2012
+  }
+]

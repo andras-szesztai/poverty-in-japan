@@ -1,25 +1,53 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
+
+import SlopeGraph from "./components/SlopeGraph";
+import ChartContainer from "./components/ChartContainer";
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+        slopeGraphContainer: {
+            width: undefined,
+            height: undefined
+        },
+
+    };
+  }
+
   render() {
+
+    const { slopeGraphContainer } = this.state
+
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <section>
+
+        </section>
+        <section>
+          <div className="second-section-container">
+            <div className="second-section-text" />
+              <ChartContainer
+                className= "slope-graph-container"
+                updateDimensions={(height, width) => this.setState({ slopeGraphContainer: { height, width }})}
+              />
+              <SlopeGraph
+                width = {slopeGraphContainer.width}
+                height = {slopeGraphContainer.height}
+              />
+            </div>
+        </section>
+        <div className="image-container"></div>
+        <section>
+        </section>
+        <div className="image-container"></div>
+        <section>
+        </section>
+        <div className="image-container"></div>
+        <section>
+        </section>
+        <div className="image-container"></div>
       </div>
     );
   }
