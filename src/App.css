@@ -32,6 +32,9 @@ section {
    position: relative;
 }
 
+circle {
+  cursor: pointer;
+}
 
 .slope-graph-container {
   position: absolute;

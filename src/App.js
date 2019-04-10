@@ -35,6 +35,7 @@ class App extends Component {
         <section>
           <div className="second-section-container">
             <ContinueButton handleClick = {() => this.setState({slopeYearFilter: 2002})} color='red'/>
+            <ContinueButton handleClick = {() => this.setState({slopeYearFilter: 2012})} color='blue'/>
                 <ChartContainer
                   className= "slope-graph-container"
                   updateDimensions={(height, width) => this.setState({ slopeGraphContainer: { height, width }})}

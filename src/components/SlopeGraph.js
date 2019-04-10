@@ -7,7 +7,7 @@ import 'd3-transition'
 
 
 import { appendArea, updateDimensions, appendxAxisText, appendyAxisText } from "./functionsGraphs";
-import { dataBind } from "./functionsSlopeGraph";
+import { dataBind, enterUpdateCircles, enterUpdateLines } from "./functionsSlopeGraph";
 
 class SlopeGraph extends Component {
   constructor(props){
@@ -65,39 +65,21 @@ class SlopeGraph extends Component {
           .x( d => this.xScale(d.Year))
           .y( d => this.yScale( d["Poverty rate"]))
 
-    const { circles } = dataBind(this.chartArea, data)
+    const { circles } = dataBind(this.chartArea, data, 1992)
 
-    circles.enter()
-          .append('circle')
-          .attr('class', '.prefecture-circle')
-          .attr('cx',d => this.xScale(d.Year))
-          .attr('cy',d => this.yScale(d["Poverty rate"]))
-          .attr('r', 0)
-          .attr('fill', '#333333')
-              .merge(circles)
-              // .transition()
-              // .duration(1000)
-              .attr('r', 5)
+    enterUpdateCircles(circles, this.xScale, this.yScale, 'circles-in', transition.medium, 0)
 
   }
 
   updateVis(){
 
-    const   { data,  } = this.props,
-            { circles, lines } = dataBind(this.chartArea, data)
+    const   { data, transition } = this.props,
+            yearFilter = data.length === 94 ? 1992 : 2002,
+            { circles, lines } = dataBind( this.chartArea, data, yearFilter )
 
-    lines.enter()
-          .append('path')
-          .attr('class', '.prefecture-line')
-          .attr('stroke', '#cccccc')
-          .attr('stroke-width', 1)
-          .attr('stroke-opacity', 1)
-          .attr('fill', 'none')
-          .attr("stroke-linejoin", "round")
-          .attr("stroke-linecap", "round")
-          .attr('d', d => this.linePath(d.values))
-          .lower()
+    enterUpdateCircles( circles, this.xScale, this.yScale, 'circles-in', transition.medium, transition.medium )
 
+    enterUpdateLines( this.chartArea, lines, '#cccccc', this.linePath, 'line-in', transition.medium )
 
   }
 
