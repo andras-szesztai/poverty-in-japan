@@ -18,9 +18,10 @@ class ChartContainer extends Component {
   }
 
   render() {
+    const { children } = this.props
     return (
       <div ref={node => (this.parent = node)} className={this.props.className}>
-
+          {children}
       </div>
     );
   }

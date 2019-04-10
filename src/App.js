@@ -3,6 +3,7 @@ import "./App.css";
 
 import SlopeGraph from "./components/SlopeGraph";
 import ChartContainer from "./components/ChartContainer";
+import ContinueButton from "./components/ContinueButton"
 
 import povertyRateTrending from "./data/povertyRateTrending.json"
 
@@ -14,13 +15,17 @@ class App extends Component {
             width: undefined,
             height: undefined
         },
+        slopeYearFilter : 1992
 
     };
   }
 
   render() {
 
-    const { slopeGraphContainer } = this.state
+    const { slopeGraphContainer, slopeYearFilter } = this.state,
+          filteredPovertyTrending = povertyRateTrending.filter(d => d.Year <= slopeYearFilter )
+
+    console.log(filteredPovertyTrending)
 
     return (
       <div className="App">
@@ -29,28 +34,26 @@ class App extends Component {
         </section>
         <section>
           <div className="second-section-container">
-            <div className="second-section-text" />
+            <ContinueButton handleClick = {() => this.setState({slopeYearFilter: 2002})} color='red'/>
                 <ChartContainer
                   className= "slope-graph-container"
                   updateDimensions={(height, width) => this.setState({ slopeGraphContainer: { height, width }})}
-                />
+                >
                   <SlopeGraph
-                    data = {povertyRateTrending}
+                    className = "slopegraph-canvas"
+                    data = {filteredPovertyTrending}
                     width = {slopeGraphContainer.width}
                     height = {slopeGraphContainer.height}
                   />
+              </ChartContainer>
             </div>
         </section>
-        <div className="image-container"></div>
         <section>
         </section>
-        <div className="image-container"></div>
         <section>
         </section>
-        <div className="image-container"></div>
         <section>
         </section>
-        <div className="image-container"></div>
       </div>
     );
   }
